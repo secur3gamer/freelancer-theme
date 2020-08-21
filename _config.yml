@@ -27,6 +27,8 @@ aboutblurb:
 aboutbtn:
   - title: Download Theme
     url: https://github.com/secur3gamer/yalp
+  - title: Download Resume
+    - url: https://notarealwebsite.com/
 
 # Google webmaster tools
 google_verify:
