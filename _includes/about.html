@@ -9,7 +9,7 @@
             </div>
             <div class="row">
               {% for aboutblurb in site.aboutblurb %}
-              <div class="col-lg-4 col-lg">
+              <div class="col-lg-4 col-lg-offset-2">
                   <p>{{ aboutblurb.content }}</p>
               </div>
               {% endfor %}
@@ -17,8 +17,7 @@
               {% for aboutbtn in site.aboutbtn %}
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <a href="{{ aboutbtn.url }}" class="btn btn-lg btn-outline">
-                        <i class="fa fa-download"></i>
-                        {{ aboutbtn.title }}
+                        <i class="fa fa-download"></i> {{ aboutbtn.title }}
                     </a>
                 </div>
               {% endfor %}

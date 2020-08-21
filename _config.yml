@@ -9,15 +9,11 @@ meta_author: LastName FirstName
 
 landing:
   - title: Blog
-    url: https://firstexample.com
+    url:
   - title: Resume
-    url: https://secondexample.com
-  - title: Third Link
-    url: https://thirdexample.com
-  - title: Fourth Link
-    url: https://fourthexample.com
-  - title: Fifth Link
-    url: https://fifthexample.com
+    url:
+  - title: Third
+    url:
 
 aboutblurb:
   - content: This is a fork of the Freelancer Jekyll theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.
@@ -27,7 +23,7 @@ aboutblurb:
 aboutbtn:
   - title: Download Theme
     url: https://github.com/secur3gamer/yalp
-    
+
 # Google webmaster tools
 google_verify:
 
