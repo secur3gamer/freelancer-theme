@@ -17,7 +17,7 @@ Jekyll theme forked from [Freelancer bootstrap theme ](http://startbootstrap.com
 View this jekyll theme in action [here](https://cyklon.solutions/yalp)
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/secur3gamer/yalp/master/yalp-screenshot.png)
+![screenshot](https://github.com/secur3gamer/yalp/blob/yalp/yalp-screenshot.png)
 
 ---------
 For more details on how to use Jekyll, read the [documentation](http://jekyllrb.com/)
