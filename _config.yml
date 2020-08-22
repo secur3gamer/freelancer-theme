@@ -79,7 +79,7 @@ credits: 'YALP is a free to use, open source Bootstrap theme forked by <a href="
 markdown: kramdown
 permalink: pretty
 
-#for posts
+# for posts
 defaults:
   - scope:
       path: ""
@@ -87,6 +87,6 @@ defaults:
     values:
       permalink: ""
 
- #Plugins
+# Plugins
 plugins:
   - jekyll-target-blank
