@@ -90,3 +90,4 @@ defaults:
 # Plugins
 plugins:
   - jekyll-target-blank
+  - jekyll-sitemap
