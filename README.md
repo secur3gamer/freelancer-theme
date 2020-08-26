@@ -9,9 +9,9 @@ Jekyll theme forked from [Freelancer bootstrap theme ](http://startbootstrap.com
  - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
   - Once you set up an account at [formspree](http://formspree.io/) (and are hosting your site), submit a form and then activate it with the email link formspree provide
 - Fill out the 'title' and 'URL' information under 'landing' - add or remove 'title' and 'url' elements as needed
-  - More than 3 titles (and URLs) will currently cause display issues on mobile
+  - ~~More than 3 titles (and URLs) will currently cause display issues on mobile~~ FIXED
 - Add information to 'content' within aboutblurb - each 'content' element creates a separate paragraph
-- Fill out the 'title' and 'URL' information under 'aboutbtn' - add or remove 'title' and 'url' elements as needed (be sure to remove 'title' and 'url, don't just leave it blank as it will still generate a button)
+- Fill out the 'title' and 'URL' information under 'aboutbtn' - add, remove (or comment out) 'title' and 'url' elements as needed (be sure to remove or comment out 'title' and 'url, don't just leave it blank as it will still generate a button)
 
 
 ## Demo
