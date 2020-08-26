@@ -7,12 +7,31 @@ keywords: "your keywords, separated by commas"
 skills: "Security Analyst, Occasional Web Developer"
 meta_author: LastName FirstName
 
-landing:
+# Below are the buttons for the front page
+landingrowone:
   - title: Blog
     url:
   - title: Resume
     url:
   - title: Third
+    url:
+
+# This is the second row - comment out if not needed (everything, including the 'title' and 'url' fields)
+landingrowtwo:
+  - title: Fourth
+    url:
+  - title: Fifth
+    url:
+  - title: Sixth
+    url:
+
+# This is the third row - comment out if not needed (everything, including the 'title' and 'url' fields)
+landingrowthree:
+  - title: Seven
+    url:
+  - title: Eight
+    url:
+  - title: Nine
     url:
 
 aboutblurb:

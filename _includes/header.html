@@ -10,10 +10,19 @@
           <span class="skills">{{ site.skills }}</span>
           <div class="col-lg">
           <div class="inline btn btn-outline rounded-lg">
-            {% for landing in site.landing %}
-            <a class="btn btn-lg btn-primary rounded-md" href="{{ landing.url }}">{{ landing.title }}</a>
+            {% for landingrowone in site.landingrowone %}
+            <a class="btn btn-lg btn-primary rounded-md" href="{{ landingrowone.url }}">{{ landingrowone.title }}</a>
             {% endfor %}
             </div>
+          <br>
+          {% if site.landingrowtwo %}
+            {% include landingrowtwo.html %}
+          {% endif %}
+          <br>
+          {% if site.landingrowthree %}
+            {% include landingrowthree.html %}
+          {% endif %}
+          <br>
           </div>
         </div>
       </div>
